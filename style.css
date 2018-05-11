@@ -1,0 +1,78 @@
+body {
+	background-color: #ffddce;
+}
+.logo {
+	padding: 0px;
+	margin: 0px;
+	max-height: 30px;
+	text-align: left;
+}
+navbar-brand {
+	padding: 0px;
+	margin: 0px;
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+
+}
+
+header {
+	text-align: center;
+	margin-bottom: 150px;
+	margin-top: 150px;
+}
+.logoBadge {
+	margin-left: 10px;
+}
+.headerLogo {
+	max-height: 200px;
+	margin-top: 50px;
+}
+.about {
+	margin-top: 50px;
+}
+
+.donIcon {
+	height: 50px;
+}
+.menu {
+	margin-top: 50px;
+}
+.table {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.contact {
+	margin-top: 50px;
+}
+
+
+
+.subs {
+	text-align: center;
+
+}
+.subscr {
+	border: 1px solid black;
+	border-bottom:5px solid black;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+	background-color: #fff3ef;
+}
+.contacts {
+	margin-top: 15px;
+}
+
+footer {
+	background-color: #f2f2f2;
+	color: #4f4f4f;
+	height: 130px;
+}
+
+.footer {
+	padding-top: 15px;
+}
